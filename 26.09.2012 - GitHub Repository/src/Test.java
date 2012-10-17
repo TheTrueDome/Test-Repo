@@ -11,9 +11,16 @@ public class Test {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	private int eins = 1;
+	private int zwei = 2;
+	private int ergebnis;
+	
+	public Test() {
 		
+		ergebnis = eins + zwei;
+		System.out.println(ergebnis);
 	}
-
+	
 }
+
+
