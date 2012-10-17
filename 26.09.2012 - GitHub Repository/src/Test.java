@@ -13,6 +13,7 @@ public class Test {
 	 */
 	private int eins = 1;
 	private int zwei = 2;
+	private int drei = 3;
 	private int ergebnis;
 	
 	public Test() {
