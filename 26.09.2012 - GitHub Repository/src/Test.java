@@ -16,11 +16,7 @@ public class Test {
 	private int ergebnis;
 	
 	public Test() {
-		
-		ergebnis = eins + zwei;
-		System.out.println(ergebnis);
+	ergebnis = eins + zwei;
+	System.out.println(ergebnis);
 	}
-	
 }
-
-
