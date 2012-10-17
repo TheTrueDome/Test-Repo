@@ -15,6 +15,7 @@ public class Test {
 	private int zwei = 2;
 	private int drei = 3;
 	private int vier = 4;
+	// too many numbers
 	private int ergebnis;
 	
 	public Test() {
